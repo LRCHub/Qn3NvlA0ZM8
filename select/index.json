@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夕暮アフター",
+  "base_artist": "鳴海杏子",
+  "createdAt": "2025-12-09T09:35:18.882827Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夕暮アフター",
+      "artist": "鳴海杏子",
+      "has_synced": false,
+      "path": "select/01_夕暮アフター_鳴海杏子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕暮アフター",
+      "artist": "鳴海杏子",
+      "has_synced": false,
+      "path": "select/pl_01_夕暮アフター_鳴海杏子.txt"
+    }
+  ]
+}
